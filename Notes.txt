@@ -1,0 +1,26 @@
+-- Check Node JS version
+D:\nodejs>node -v
+-- writing hello world - complated
+D:\nodejs>node helloworld.js
+Hello, World!
+-- finding IP address of local host
+D:\nodejs>node nodejsip.js
+we will get IP address - compleated
+-- running fist node js in browser
+D:\nodejs>node main.js - completed
+
+run http://IP_ADRESS:8082/ in browser
+or 
+run http://IP_ADRESS:8082/ in browser
+
+
+
+
+
+
+
+-- reading file
+D:\nodejs>node readhtml.js
+run http://IP_ADRESS:8082/ in browser
+or 
+run http://localhost:8082/ in browser
